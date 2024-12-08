@@ -4,3 +4,5 @@
 
 import "./students/Nazar.js";
 import "./students/mariia.js";
+import "./students/Vladyslav.js";
+
