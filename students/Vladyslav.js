@@ -1,6 +1,6 @@
 const container = document.getElementById("output-container");
-const VladyslavHeading1 = document.createElement("h2");
-VladyslavHeading1.textContent = "Привіт від Vladyslav!";
+const heading = document.createElement("h2");
+VladyslavHeading1.textContent = "Привіт від Vladyslava!";
 container.appendChild(VladyslavHeading1);
 const VladyslavHeading2 = document.createElement("h2");
 VladyslavHeading2.textContent = "Це заголовок з класом";
