@@ -9,5 +9,6 @@ img.src =
     "https://hips.hearstapps.com/hmg-prod/images/chipmunk-nature-photos-1537973822.jpg";
 img.style.width = "450px"; 
 img.style.height = "250px";
+img.alt = "chipmunck eating corn";
 container.appendChild(img);
 
